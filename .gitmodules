@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/uav_track/src/uav_track"]
+	path = catkin_ws/src/uav_track/src/uav_track
+	url = https://github.com/Carbon225/uav-track.git
